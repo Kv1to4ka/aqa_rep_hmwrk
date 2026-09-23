@@ -1,3 +1,4 @@
 print("wednesday")
 print("thursday")
 print("friday")
+print("saturday")
