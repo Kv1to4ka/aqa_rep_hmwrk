@@ -1,5 +1,6 @@
-print("wednesday")
+'''print("wednesday")
 print("thursday")
 print("friday")
 print("saturday")
-print ("sunday")
+print ("sunday")'''
+print("monday")
